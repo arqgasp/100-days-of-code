@@ -1,23 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: Julho 24, 2022
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Avancei do 0% ao 7% do curso de JavaScript do FreeCodeCamp.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Penso que já consigo executar muitas coisas razoávelmente bem, porém a minha base não está sólida o bastante para me sentir confiante, por isto vou dar dois passos para trás e fazer o curso de JavaScript do freeCodeCamp.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Link to work:** [Curso FreeCodeCamp](http://www.freecodecamp.org)
 
 ### Day 1: June 27, Monday
 
