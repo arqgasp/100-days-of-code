@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: Julho 24, 2022
-##### (delete me or comment me out)
 
 **Today's Progress**: Avancei do 0% ao 7% do curso de JavaScript do FreeCodeCamp.
 
