@@ -22,4 +22,4 @@
 
 **Thoughts:** Está sendo mais difícil do que imaginava e pela dificuldade tenho ficado um pouco desanimado, mas para contornar esse problema, vou fazer mais devagar. Um pouco por dia até finalizar, pretendia ir até os 80% hoje, porém o 67% já me satisfaz. Também aprendi um pouco sobre os frameworks relacionados a JavaScript e decidi que vou ficar focado nessa linguagem. 
 
-**Link to work:** [Curso FreeCodeCamp](http://www.freecodecamp.org); [arqgasp homepage](https://github.com/piferia/arqgasp-homepage)
+**Link to work:** [Curso FreeCodeCamp](http://www.freecodecamp.org) && [Arqgasp homepage](https://github.com/piferia/arqgasp-homepage)
