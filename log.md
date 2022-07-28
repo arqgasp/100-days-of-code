@@ -23,3 +23,19 @@
 **Thoughts:** Está sendo mais difícil do que imaginava e pela dificuldade tenho ficado um pouco desanimado, mas para contornar esse problema, vou fazer mais devagar. Um pouco por dia até finalizar, pretendia ir até os 80% hoje, porém o 67% já me satisfaz. Também aprendi um pouco sobre os frameworks relacionados a JavaScript e decidi que vou ficar focado nessa linguagem. 
 
 **Link to work:** [Curso FreeCodeCamp](http://www.freecodecamp.org) | [Arqgasp homepage](https://github.com/piferia/arqgasp-homepage)
+
+### Day 3: Julho 27, 2022
+
+**Today's Progress**: Finalizei o portfólio seguindo o guia do devsalife no yt!
+
+**Thoughts:** Não consegui acompanhar em algumas partes e não entendia muito bem o que estava acontecendo. Porém aprendi o que é o Next.js e a sua estrutura de rotas, não sabia como funcionava e isso me trouxe paz de espirito.
+
+**Link to work:** [Arqgasp homepage](https://github.com/piferia/arqgasp-homepage)
+
+### Day 4: Julho 28, 2022
+
+**Today's Progress**: Avancei do 67% ao 73% do curso de JavaScript do FreeCodeCamp. Li um PDF em inglês sobre como ter um bom Portfólio dev.
+
+**Thoughts:** O curso de JS está ficando muito difícil e sinto que ainda me falta base. Não quero fazer por fazer, só para chegar no final. Vou parar por um tempo, tentar criar uma base mais sólida de JavaScript, para continuar. Também estou ficando muito ansioso com tanta coisa para aprender, isso é inevitável. Porém vou tentar fazer projetos por conta, parar de seguir curso de yt! Sinto que consigo entender a documentação que precisar. Vou tentar criar um site portfólio, somente com HTML e CSS, hoje vou desenhar o rascunho e começar a por em prática.
+
+**Link to work:** [Curso FreeCodeCamp](http://www.freecodecamp.org) | 
